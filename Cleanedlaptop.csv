@@ -1,0 +1,1199 @@
+,Company,TypeName,Cpu,Ram,Gpu,OpSys,Weight,Price,ppi,IPS,TouchScreen
+0,Apple,Ultrabook,Intel Core i5,8,Intel Iris,mac OS,1.37,119514,227.0,1,0
+1,Apple,Ultrabook,Intel Core i5,8,Intel HD,mac OS,1.34,80194,128.0,0,0
+2,HP,Notebook,Intel Core i5,8,Intel HD,No OS,1.86,51296,141.0,0,0
+4,Apple,Ultrabook,Intel Core i5,8,Intel Iris,mac OS,1.37,160899,227.0,1,0
+5,Acer,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.1,35684,100.0,0,0
+7,Apple,Ultrabook,Intel Core i5,8,Intel HD,mac OS,1.34,103368,128.0,0,0
+8,Asus,Ultrabook,Intel Core i7,16,Nvidia GeForce,Windows 10,1.3,133369,157.0,0,0
+9,Acer,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.6,68692,157.0,1,0
+10,HP,Notebook,Intel Core i5,4,Intel HD,No OS,1.86,35140,100.0,0,0
+11,HP,Notebook,Intel Core i3,4,Intel HD,No OS,1.86,30777,141.0,0,0
+13,Dell,Notebook,Intel Core i3,4,AMD Radeon,Windows 10,2.2,44507,141.0,0,0
+15,Apple,Ultrabook,Intel Core i5,8,Intel Iris,mac OS,1.37,135470,227.0,1,0
+16,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.2,66461,141.0,0,0
+18,Lenovo,Notebook,Intel Core i3,8,Nvidia GeForce,No OS,2.2,44516,141.0,0,0
+19,Dell,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.22,87337,166.0,1,1
+20,Asus,Netbook,Other Intel Processor,2,Intel HD,Windows 10,0.98,17119,135.0,0,0
+21,Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.5,89121,141.0,1,0
+22,HP,Notebook,AMD E-Series,4,AMD Radeon,No OS,1.86,23016,100.0,0,0
+23,Dell,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Windows 10,1.62,73063,166.0,0,1
+24,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.91,58789,141.0,0,0
+25,Dell,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.3,37347,100.0,0,0
+26,Apple,Ultrabook,Intel Core i5,8,Intel HD,mac OS,1.35,98042,128.0,0,0
+27,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.2,71368,141.0,0,0
+28,Dell,Ultrabook,Intel Core i7,8,Intel UHD,Windows 10,1.88,115795,141.0,0,0
+29,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.5,79932,127.0,0,0
+31,Asus,Notebook,AMD E-Series,2,AMD Radeon,Windows 10,1.65,17753,112.0,0,0
+32,HP,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.71,39163,127.0,0,0
+33,Dell,Ultrabook,Intel Core i7,16,Intel UHD,Windows 10,1.2,166733,276.0,0,1
+34,Apple,Ultrabook,Intel Core i5,8,Intel HD,mac OS,1.35,89032,128.0,0,0
+35,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.44,22213,112.0,0,0
+36,Acer,Notebook,Intel Core i3,4,Intel HD,Linux,2.1,32740,100.0,0,0
+37,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.8,87337,127.0,1,0
+38,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.86,43596,100.0,0,0
+39,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.1,78416,141.0,0,0
+40,Asus,Notebook,Intel Core i3,4,Intel HD,Linux,2.0,34703,141.0,0,0
+41,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.65,133726,141.0,1,0
+42,Asus,Notebook,Intel Core i5,8,Nvidia GeForce,Linux,2.3,46656,100.0,0,0
+43,Acer,Notebook,Intel Core i5,4,Intel UHD,Windows 10,2.2,60841,141.0,1,0
+44,Dell,2 in 1 Convertible,Intel Core i5,12,Nvidia GeForce,Windows 10,2.77,89121,127.0,0,1
+45,Apple,Ultrabook,Intel Core i5,8,Intel Iris,mac OS,1.37,126589,227.0,1,0
+46,Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,2.2,32918,100.0,0,0
+47,Asus,Gaming,AMD Ryzen Series,8,AMD Radeon,Windows 10,3.2,115884,127.0,0,0
+48,Dell,Notebook,Intel Core i5,4,AMD Radeon,Windows 10,2.3,57005,141.0,0,0
+49,Asus,Notebook,Other Intel Processor,4,Nvidia GeForce,Windows 10,2.8,41572,91.0,0,0
+51,Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,75026,141.0,1,0
+52,HP,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,1.86,35549,141.0,0,0
+53,HP,Notebook,Intel Core i7,8,Intel UHD,Windows 10,1.49,98399,166.0,0,0
+54,Acer,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.4,34257,100.0,0,0
+55,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.13,68495,141.0,0,0
+56,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.91,39163,141.0,0,0
+57,Asus,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.0,52294,100.0,0,0
+58,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.43,218475,127.0,0,0
+59,Asus,Notebook,Intel Core i3,4,Intel HD,Linux,2.0,37022,141.0,0,0
+60,Dell,Notebook,Intel Core i7,16,AMD Radeon,Windows 10,2.8,115884,127.0,0,0
+61,Dell,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.7,78416,157.0,0,0
+62,Lenovo,Notebook,Intel Core i3,8,Intel HD,No OS,1.7,53437,157.0,1,0
+63,Asus,Notebook,Intel Core i5,8,Intel UHD,Windows 10,1.4,83947,157.0,0,0
+64,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.86,61555,141.0,0,0
+65,Asus,Ultrabook,Intel Core i7,16,Nvidia GeForce,Windows 10,1.8,176903,141.0,0,0
+66,HP,Notebook,Intel Core i3,4,AMD Radeon,Windows 10,1.86,39136,100.0,0,0
+67,HP,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.44,20429,112.0,0,0
+68,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.9,48976,141.0,0,0
+69,Asus,Gaming,Intel Core i7,12,Nvidia GeForce,Linux,3.0,84660,127.0,0,0
+71,Dell,Ultrabook,Intel Core i7,8,AMD Radeon,Windows 10,1.4,85196,166.0,1,0
+72,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.2,77613,141.0,0,0
+73,MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.7,97685,127.0,0,0
+74,Acer,Notebook,Intel Core i3,8,Intel HD,Windows 10,2.1,34703,112.0,0,0
+75,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,84660,141.0,0,0
+76,Lenovo,Notebook,Intel Core i5,8,Intel HD,No OS,2.2,46300,141.0,0,0
+77,Dell,Notebook,Intel Core i7,8,Intel UHD,Windows 10,2.02,76275,141.0,0,0
+78,Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Windows 10,2.2,47281,141.0,0,0
+79,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.5,87158,127.0,0,0
+80,Dell,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.88,97788,141.0,1,0
+82,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.63,76721,157.0,0,0
+83,Lenovo,Notebook,AMD A-Series,4,AMD R4,Windows 10,2.2,35595,141.0,0,0
+84,Acer,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.1,35238,100.0,0,0
+85,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.65,120344,141.0,1,0
+86,HP,Ultrabook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.83,62358,141.0,1,0
+87,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.96,53436,141.0,0,0
+88,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.2,129265,141.0,1,0
+89,Dell,Ultrabook,Intel Core i7,8,Intel UHD,Windows 10,1.21,147107,166.0,1,0
+90,Asus,Gaming,AMD F-Series,8,AMD Radeon,Windows 10,2.45,62358,141.0,0,0
+91,Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,61466,141.0,0,0
+92,HP,Notebook,Intel Core i7,16,Intel UHD,Windows 10,1.49,106784,166.0,0,0
+93,Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.65,106606,141.0,0,0
+94,Asus,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.25,93581,157.0,0,0
+95,Acer,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Windows 10,1.5,75561,166.0,1,1
+96,Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux,2.2,53517,141.0,0,0
+97,Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux,2.2,43267,141.0,0,0
+98,Asus,Notebook,Intel Core i3,6,Nvidia GeForce,Windows 10,2.0,51474,141.0,0,0
+99,HP,Gaming,Intel Core i7,12,Nvidia GeForce,Windows 10,2.62,111423,141.0,1,0
+100,HP,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,1.91,64142,141.0,0,0
+101,HP,Notebook,AMD E-Series,4,AMD Radeon,Windows 10,2.1,31134,141.0,0,0
+102,Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux,2.2,57719,141.0,0,0
+103,HP,Ultrabook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.38,99826,166.0,1,0
+105,HP,Notebook,Intel Core i5,6,Nvidia GeForce,Windows 10,1.58,58789,157.0,1,0
+106,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.85,37013,141.0,0,0
+107,Asus,Ultrabook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.3,106428,157.0,1,0
+108,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.2,115884,141.0,0,0
+109,Lenovo,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.58,132031,157.0,1,0
+110,Asus,Ultrabook,Intel Core i7,16,Nvidia GeForce,Windows 10,1.5,112583,141.0,0,0
+111,Dell,Ultrabook,Intel Core i7,8,Intel Iris,Windows 10,1.23,123021,276.0,0,1
+112,Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.37,124805,166.0,1,1
+113,HP,Notebook,Intel Core i5,4,Intel UHD,Windows 10,1.63,64410,112.0,1,0
+114,Dell,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.21,145323,166.0,1,0
+115,HP,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Windows 10,1.26,124804,166.0,1,1
+116,HP,Notebook,Intel Core i7,8,Intel UHD,Windows 10,1.63,96704,157.0,0,0
+117,Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.16,100837,141.0,1,0
+118,Asus,Notebook,Intel Core i3,4,Nvidia GeForce,Windows 10,2.0,50314,127.0,0,0
+119,Asus,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.7,99737,141.0,0,0
+120,Acer,Notebook,Intel Core i3,6,Intel HD,Windows 10,2.1,42732,141.0,1,1
+121,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,1.8,199964,141.0,0,0
+122,Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,No OS,2.2,56113,141.0,0,0
+123,HP,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,2.5,113386,127.0,0,0
+124,Acer,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.1,40234,100.0,0,0
+125,HP,Notebook,Other Intel Processor,4,Intel HD,No OS,1.86,23105,100.0,0,0
+126,HP,Notebook,Intel Core i5,8,Intel UHD,Windows 10,1.63,72439,157.0,0,0
+127,Asus,Notebook,AMD E-Series,4,AMD Radeon,Windows 10,1.65,24799,112.0,0,0
+128,Dell,Notebook,Intel Core i7,16,AMD Radeon,Windows 10,2.8,124537,127.0,0,0
+129,HP,Notebook,Intel Core i5,8,Intel UHD,Windows 10,2.5,82787,127.0,0,0
+130,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.36,57004,100.0,0,0
+131,Dell,Notebook,Intel Core i3,4,AMD Radeon,Windows 10,2.2,40055,141.0,0,0
+132,Acer,Ultrabook,Intel Core i7,8,Intel UHD,Windows 10,1.6,78862,157.0,1,0
+133,Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Windows 10,2.2,51028,141.0,0,0
+134,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,2.05,53348,100.0,0,0
+135,HP,Notebook,Intel Core i7,8,Intel UHD,Windows 10,1.63,88139,157.0,0,0
+136,Lenovo,Notebook,Other Intel Processor,4,Intel HD,No OS,1.9,22513,100.0,0,0
+137,Asus,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,3.0,83679,127.0,0,0
+138,Lenovo,Notebook,Intel Core i5,4,Nvidia GeForce,No OS,2.2,44516,141.0,0,0
+139,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.32,62358,166.0,1,0
+140,Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Windows 10,3.0,58433,127.0,1,0
+141,Lenovo,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,1.75,99560,157.0,1,0
+142,Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,No OS,2.4,77523,141.0,1,0
+143,Toshiba,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.1,53704,100.0,0,0
+144,HP,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,1.86,32918,100.0,0,0
+145,Asus,Ultrabook,Intel Core i7,8,Intel UHD,Windows 10,1.25,98042,157.0,0,0
+146,HP,Ultrabook,Other Intel Processor,8,Intel HD,Windows 10,0.97,179669,352.0,1,1
+147,Asus,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.0,30688,141.0,0,0
+148,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.9,181007,127.0,0,0
+149,Acer,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.1,39877,100.0,0,0
+150,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.56,111446,141.0,0,0
+151,Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.62,80200,141.0,0,0
+152,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.9,44427,100.0,0,0
+153,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.8,168607,127.0,0,0
+154,HP,Ultrabook,Intel Core i5,4,Intel HD,Windows 10,1.48,96525,157.0,0,0
+155,HP,Notebook,Intel Core i5,6,AMD Radeon,Windows 10,1.91,55221,141.0,0,0
+156,Lenovo,2 in 1 Convertible,Intel Core i3,4,Intel HD,Windows 10,1.74,56113,157.0,1,1
+157,Asus,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.1,117311,166.0,0,1
+158,Dell,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Windows 10,1.56,93581,141.0,0,1
+159,Toshiba,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.1,39877,100.0,0,0
+160,Asus,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.03,35952,100.0,0,0
+161,Acer,Notebook,Intel Core i5,4,Nvidia GeForce,Windows 10,3.0,71814,127.0,1,0
+162,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.13,64945,141.0,0,0
+163,Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.5,96258,141.0,1,0
+164,Acer,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.1,31045,100.0,0,0
+165,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.4,160489,141.0,1,0
+166,Acer,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.1,32429,100.0,0,0
+167,Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.56,94606,141.0,0,0
+168,Acer,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,3.0,76185,127.0,1,0
+169,HP,Notebook,Intel Core i5,4,Intel UHD,Windows 10,1.49,67264,166.0,1,0
+171,HP,Notebook,Intel Core i5,6,AMD Radeon,Windows 10,2.71,62358,127.0,1,0
+172,Lenovo,Notebook,AMD A-Series,4,AMD Radeon,No OS,2.2,27566,100.0,0,0
+173,Toshiba,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.0,43624,100.0,0,0
+174,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.5,82341,127.0,0,0
+175,Dell,Notebook,Intel Core i3,8,Intel HD,Windows 10,2.3,40947,100.0,0,0
+176,Acer,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.1,40055,100.0,0,0
+178,Lenovo,Notebook,Intel Core i5,8,AMD R17M-M1-70,Windows 10,1.9,72528,141.0,0,0
+179,HP,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Windows 10,1.29,133726,331.0,1,1
+180,Dell,Notebook,Intel Core i7,16,AMD Radeon,Linux,2.02,93581,141.0,0,0
+181,Dell,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.23,124805,166.0,0,0
+183,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.0,70744,100.0,0,0
+185,Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,2.77,138186,127.0,0,1
+186,Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,2.06,213836,282.0,0,1
+187,Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,No OS,2.4,69495,141.0,1,0
+188,Acer,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.12,88229,166.0,1,0
+189,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.8,96793,127.0,0,0
+190,Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Windows 10,1.42,251929,210.0,0,1
+193,Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,No OS,2.8,62269,106.0,0,0
+194,Dell,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Windows 10,1.62,74847,166.0,1,1
+195,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.5,81538,127.0,1,0
+197,HP,Notebook,Intel Core i5,8,Intel UHD,Windows 10,1.49,85552,166.0,0,0
+198,HP,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.35,123021,127.0,1,0
+199,HP,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.5,93224,127.0,0,0
+200,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.65,164592,282.0,1,0
+201,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.1,43981,100.0,0,0
+202,Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.23,66194,141.0,0,0
+203,Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.2,156028,141.0,1,0
+204,Dell,Workstation,Other Intel Processor,16,Nvidia Quadro,Windows 10,2.8,272537,282.0,0,0
+205,Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,No OS,2.4,124716,141.0,0,0
+206,Dell,Notebook,Intel Core i3,6,Intel HD,Windows 10,2.3,39163,100.0,0,1
+207,Dell,Ultrabook,Intel Core i7,8,Intel UHD,Windows 10,1.21,173870,331.0,1,1
+208,Dell,Ultrabook,Intel Core i7,8,Intel UHD,Windows 10,1.2,129265,166.0,0,0
+209,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.2,53258,100.0,0,0
+210,Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux,2.4,69495,141.0,0,0
+211,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.9,125518,127.0,0,0
+212,HP,Notebook,Intel Core i3,4,Intel HD,No OS,2.1,31134,141.0,0,0
+213,Lenovo,Notebook,Intel Core i5,8,Intel HD,No OS,2.2,48976,141.0,0,0
+215,Dell,Ultrabook,Intel Core i7,8,AMD Radeon,Windows 10,1.4,83133,166.0,1,0
+216,Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,No OS,2.8,52545,106.0,0,0
+217,HP,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.63,91976,157.0,0,0
+218,Dell,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.6,102502,157.0,0,0
+219,Dell,2 in 1 Convertible,Intel Core i7,16,Intel UHD,Windows 10,1.62,114100,166.0,0,1
+220,Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux,2.2,60426,141.0,0,0
+221,Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Windows 10,1.74,80200,157.0,1,0
+222,Toshiba,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.2,121593,166.0,0,0
+223,HP,Notebook,Intel Core i5,8,Intel UHD,Windows 10,2.1,70833,141.0,0,0
+224,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.42,219130,127.0,1,0
+225,Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,74223,141.0,0,0
+226,Dell,Notebook,Intel Core i7,16,AMD Radeon,Windows 10,2.3,76632,141.0,0,1
+227,Asus,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.0,68602,141.0,0,0
+228,Asus,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.69,79486,127.0,0,0
+229,HP,Notebook,Intel Core i7,8,AMD FirePro,Windows 10,1.9,113207,141.0,0,0
+230,Asus,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.37,35594,100.0,0,0
+231,HP,Notebook,AMD E-Series,4,AMD Radeon,Windows 10,2.1,29439,100.0,0,0
+232,Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.2,133726,141.0,1,0
+233,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.6,76631,157.0,0,0
+234,Acer,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.6,61466,166.0,1,1
+235,Dell,Notebook,Intel Core i7,16,AMD Radeon,Linux,2.36,80200,141.0,0,0
+236,Acer,Notebook,Intel Core i3,4,Intel HD,Linux,2.1,34792,100.0,0,0
+237,Asus,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.2,51296,141.0,0,0
+238,Asus,Gaming,Intel Core i7,32,Nvidia GeForce,Windows 10,4.7,347027,127.0,0,0
+239,Acer,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.5,75472,141.0,1,0
+240,Lenovo,Notebook,Intel Core i3,8,Intel HD,Windows 10,2.2,52545,100.0,0,0
+241,Asus,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.1,102145,127.0,0,0
+242,Asus,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.69,79308,127.0,0,0
+243,Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.56,78416,141.0,0,0
+245,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.2,87872,141.0,0,0
+246,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.04,49868,100.0,0,1
+247,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.6,267541,127.0,0,0
+248,HP,Notebook,Intel Core i5,4,Intel UHD,Windows 10,1.49,60217,166.0,1,0
+249,Apple,Ultrabook,Intel Core i5,8,Intel Iris,mac OS,1.37,181988,227.0,1,0
+250,Dell,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Windows 10,2.08,73063,141.0,1,1
+251,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.3,160489,127.0,0,0
+252,Asus,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,1.68,41839,100.0,0,0
+254,Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Windows 10,3.0,62625,127.0,1,0
+255,Dell,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.41,84660,166.0,0,0
+256,HP,Notebook,AMD A-Series,8,AMD Radeon,Windows 10,1.91,39779,100.0,0,0
+257,HP,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,2.9,94473,127.0,1,0
+258,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.14,222936,127.0,0,0
+259,Lenovo,2 in 1 Convertible,Intel Core i7,8,Nvidia GeForce,Windows 10,2.0,151568,141.0,1,1
+260,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.8,101878,127.0,0,0
+261,Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,2.2,39609,141.0,0,0
+262,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.1,64410,141.0,1,0
+263,Dell,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.18,58611,141.0,0,0
+264,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.24,50404,141.0,0,0
+265,Dell,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Windows 10,2.67,71279,141.0,0,1
+266,Asus,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Windows 10,1.1,133726,166.0,0,1
+267,Lenovo,Notebook,Intel Core i5,4,Intel HD,No OS,2.2,41661,141.0,0,0
+268,HP,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.5,90816,127.0,0,0
+269,Lenovo,Notebook,Intel Core i7,8,Intel UHD,Windows 10,2.05,78505,141.0,0,0
+270,Apple,Ultrabook,Intel Core i5,8,Intel Iris,mac OS,1.37,174753,227.0,1,0
+271,Asus,Gaming,AMD Ryzen Series,16,AMD Radeon,Windows 10,3.2,138186,127.0,0,0
+272,Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux,2.14,65576,141.0,0,0
+273,Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Windows 10,1.36,222936,210.0,0,1
+274,Toshiba,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,72439,100.0,0,0
+275,Dell,Notebook,Intel Core i7,12,Intel HD,Windows 10,2.3,63613,100.0,0,0
+276,Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux,2.8,98042,127.0,0,0
+277,Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,66461,141.0,1,0
+278,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.8,43624,106.0,0,0
+279,Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.8,75739,127.0,0,0
+280,Lenovo,Notebook,Intel Core i7,6,Nvidia GeForce,Windows 10,2.8,76631,106.0,0,0
+281,Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux,2.25,38182,141.0,0,0
+282,Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.5,73955,141.0,1,0
+283,Lenovo,Notebook,Intel Core i5,6,Intel HD,Windows 10,2.2,51653,141.0,0,0
+284,Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,3.0,84839,141.0,1,0
+285,Acer,Notebook,Intel Core i7,12,Intel HD,Windows 10,2.15,58789,141.0,1,1
+286,Lenovo,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.95,97863,141.0,1,0
+287,Asus,Ultrabook,Intel Core i5,8,Nvidia GeForce,Windows 10,1.7,87158,141.0,0,0
+288,Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.5,105179,141.0,1,0
+289,Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.2,58790,141.0,0,0
+290,Acer,Notebook,Other Intel Processor,2,Intel HD,Chrome OS,2.19,17753,100.0,0,0
+291,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,3.0,105892,127.0,0,0
+292,HP,Notebook,Intel Core i3,8,Intel HD,Windows 10,2.54,43624,106.0,0,0
+293,Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.0,163165,141.0,0,0
+294,Lenovo,Notebook,Intel Core i5,8,Intel UHD,Windows 10,2.05,65926,141.0,0,0
+295,Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,3.2,115884,141.0,1,0
+296,Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux,2.5,87337,141.0,0,0
+297,Dell,Workstation,Intel Core i7,16,Nvidia Quadro,Windows 10,3.42,257358,127.0,0,0
+298,Lenovo,Notebook,AMD A-Series,6,AMD Radeon,Windows 10,2.4,44516,141.0,0,0
+299,Asus,Ultrabook,Intel Core i7,16,Nvidia GeForce,Windows 10,1.63,130960,141.0,0,0
+300,Asus,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.3,45408,112.0,0,0
+301,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.9,189304,127.0,0,0
+302,Lenovo,Notebook,Intel Core i5,6,Nvidia GeForce,Windows 10,2.8,57897,106.0,0,0
+303,Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,No OS,2.2,48976,100.0,0,0
+304,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.5,112851,141.0,0,0
+305,Lenovo,Notebook,Other Intel Processor,4,Intel HD,No OS,2.2,32115,100.0,0,0
+306,HP,2 in 1 Convertible,Intel Core i7,16,Intel HD,Windows 10,1.28,176190,166.0,0,1
+307,Toshiba,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,93046,141.0,1,0
+308,Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.3,73063,141.0,0,0
+309,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.86,41839,141.0,0,0
+310,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.1,89121,166.0,1,0
+311,Dell,Ultrabook,Intel Core i7,16,Intel UHD,Windows 10,1.21,222936,331.0,1,1
+312,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.8,187252,141.0,1,0
+313,Acer,Notebook,AMD A-Series,8,AMD Radeon,Windows 10,2.23,41839,141.0,0,0
+314,Asus,2 in 1 Convertible,Other Intel Processor,2,Intel HD,Windows 10,1.1,24533,135.0,0,1
+315,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.33,75293,141.0,0,0
+316,HP,2 in 1 Convertible,Intel Core i7,16,Intel UHD,Windows 10,1.29,218475,331.0,1,1
+317,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Chrome OS,1.45,41028,118.0,0,0
+318,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.95,87426,157.0,0,0
+319,Acer,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.4,43267,135.0,0,0
+320,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.48,115259,157.0,0,0
+321,Lenovo,Notebook,Intel Core i5,4,Nvidia GeForce,Windows 10,2.79,52545,106.0,0,0
+322,Asus,Notebook,Intel Core i7,8,Intel HD,Windows 10,2.0,97596,157.0,0,0
+323,HP,Notebook,Intel Core i7,8,Intel UHD,Windows 10,2.1,80467,100.0,1,0
+324,Acer,Notebook,AMD A-Series,8,AMD Radeon,Windows 10,2.2,58789,100.0,0,0
+325,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.44,26049,112.0,0,0
+326,Acer,Notebook,Intel Core i5,6,Intel HD,Windows 10,2.23,48976,100.0,0,0
+327,Asus,Ultrabook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.7,93662,141.0,0,0
+328,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.26,119095,176.0,0,0
+329,Dell,Notebook,Intel Core i7,32,Nvidia GeForce,Windows 10,2.06,235425,282.0,0,1
+330,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.7,106963,127.0,0,0
+331,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.0,84125,141.0,1,0
+332,Asus,Notebook,Intel Core i7,8,Intel HD,Windows 10,2.0,119006,157.0,0,0
+333,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.85,40055,141.0,0,0
+334,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.5,89121,141.0,0,0
+335,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.48,113118,157.0,0,0
+336,Dell,Ultrabook,Intel Core i5,8,Nvidia GeForce,Windows 10,1.9,93581,141.0,1,0
+337,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.84,102056,141.0,0,0
+338,Asus,Notebook,Other Intel Processor,4,Intel HD,Linux,2.0,24532,100.0,0,0
+339,Dell,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.0,101945,141.0,0,0
+340,Dell,Notebook,Other Intel Processor,4,Intel HD,Linux,2.2,24524,100.0,0,0
+341,Lenovo,Notebook,AMD A-Series,12,AMD Radeon,Windows 10,2.2,80200,141.0,0,0
+342,HP,Notebook,Intel Core i3,8,Nvidia GeForce,Windows 10,2.1,63874,141.0,1,0
+344,Dell,Ultrabook,Intel Core i7,8,Intel UHD,Windows 10,1.2,140863,166.0,0,0
+345,Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.4,100718,141.0,1,0
+346,HP,Notebook,Other Intel Processor,2,Intel HD,Windows 10,1.44,24890,112.0,0,0
+347,Dell,Ultrabook,Intel Core i7,16,Intel UHD,Windows 10,1.88,143446,141.0,0,0
+348,Asus,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Windows 10,1.5,33454,135.0,0,1
+349,Dell,Ultrabook,Intel Core i5,8,AMD Radeon,Windows 10,1.9,59146,141.0,0,0
+350,Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,2.06,180866,282.0,0,1
+351,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.84,116330,141.0,0,0
+352,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.7,125697,127.0,0,0
+353,HP,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 10,2.6,155071,141.0,0,0
+354,Toshiba,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,2.4,125162,141.0,1,0
+355,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.02,86614,141.0,0,0
+356,Lenovo,Notebook,Other Intel Processor,4,Intel HD,No OS,2.2,28725,100.0,0,0
+357,Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.65,89121,141.0,0,0
+358,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.36,49723,100.0,0,1
+359,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.36,127303,157.0,0,0
+360,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.86,39163,100.0,0,0
+361,Asus,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.0,84303,157.0,0,0
+362,Lenovo,Notebook,Intel Core i5,6,Nvidia GeForce,Windows 10,2.8,64142,106.0,0,0
+363,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.86,57005,141.0,0,0
+364,Lenovo,Notebook,Intel Core i3,8,Nvidia GeForce,No OS,2.2,44516,100.0,0,0
+365,HP,Notebook,Other Intel Processor,8,Intel HD,Windows 10,2.04,34703,100.0,0,0
+366,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.8,96793,127.0,0,0
+367,Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,No OS,2.4,72171,141.0,1,0
+368,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.33,80200,141.0,0,0
+369,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.36,156118,157.0,1,0
+370,Asus,2 in 1 Convertible,Intel Core i7,12,Nvidia GeForce,Windows 10,2.26,98042,141.0,0,1
+371,Acer,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.1,38003,100.0,0,0
+372,Asus,Gaming,AMD Ryzen Series,16,AMD Radeon,Windows 10,3.25,196173,127.0,1,0
+373,Lenovo,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.6,43624,106.0,0,0
+374,Dell,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Windows 10,1.62,77524,166.0,0,1
+375,HP,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,1.91,43623,141.0,0,0
+376,Lenovo,Netbook,Other Intel Processor,4,Intel HD,Windows 10,1.59,49333,135.0,1,0
+377,Dell,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.8,27566,100.0,0,0
+378,Asus,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.5,25514,112.0,0,0
+379,Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux,2.4,75472,141.0,0,0
+380,HP,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,3.35,106249,127.0,1,0
+381,Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,1.85,35996,141.0,0,0
+382,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.3,147643,141.0,1,0
+383,Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,1.5,98042,157.0,1,0
+384,Asus,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.1,156019,166.0,0,1
+385,Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.13,203577,210.0,1,0
+386,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.5,48976,166.0,1,0
+387,Dell,Workstation,Intel Core i5,8,AMD FirePro,Windows 10,2.23,122128,141.0,0,0
+388,Dell,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 10,2.0,190463,141.0,1,0
+389,Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Windows 10,1.42,223828,210.0,0,1
+390,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,3.0,92689,127.0,0,0
+391,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.0,141933,127.0,0,0
+392,Acer,Notebook,Intel Core i5,12,Nvidia GeForce,Windows 10,2.2,61911,100.0,1,0
+393,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.7,120344,127.0,0,0
+394,Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux,2.33,69483,141.0,0,0
+395,HP,Ultrabook,AMD A-Series,4,AMD Radeon,Windows 10,1.91,44516,141.0,0,0
+396,Lenovo,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.1,109689,141.0,1,0
+397,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.9,83679,157.0,1,0
+398,Dell,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 10,1.78,241938,282.0,0,1
+399,Lenovo,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.13,234176,210.0,1,0
+400,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.2,27298,100.0,0,0
+401,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.9,136402,127.0,0,0
+402,Lenovo,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.1,102101,141.0,1,0
+403,Acer,Notebook,Intel Core i7,8,Nvidia GeForce,Linux,2.5,78416,141.0,0,0
+404,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.8,200633,127.0,0,0
+405,Asus,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.1,167090,157.0,0,0
+406,Toshiba,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.2,155850,166.0,0,0
+407,Dell,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.36,149873,157.0,0,0
+408,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.2,36487,141.0,0,0
+409,Lenovo,Notebook,Other Intel Processor,2,Intel HD,Windows 10,1.15,27160,135.0,0,0
+410,Lenovo,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 10,2.67,171729,141.0,0,0
+411,Lenovo,Ultrabook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.7,173335,210.0,1,0
+412,HP,Notebook,Intel Core i3,4,AMD Radeon,Windows 10,2.1,41839,141.0,0,0
+413,Acer,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.6,70388,166.0,1,1
+414,Asus,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.27,82787,166.0,1,1
+415,Dell,Notebook,Intel Core i5,4,AMD Radeon,Linux,2.3,53428,141.0,0,0
+416,Dell,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.65,61466,118.0,0,0
+417,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.43,133815,157.0,0,0
+418,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.14,48169,100.0,0,0
+419,Lenovo,Ultrabook,Intel Core i7,8,AMD Radeon,Windows 10,1.75,108424,157.0,1,0
+420,Lenovo,2 in 1 Convertible,Intel Core i7,16,Nvidia GeForce,Windows 10,2.0,169410,282.0,1,1
+422,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,2.31,127303,141.0,0,0
+423,Asus,Notebook,Intel Core i3,8,Nvidia GeForce,Linux,2.3,53258,141.0,0,0
+424,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.42,249699,170.0,1,0
+425,Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.62,103394,141.0,1,0
+426,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.02,101914,141.0,0,0
+427,Dell,Ultrabook,Intel Core i7,8,Intel HD,Linux,1.6,98042,157.0,0,0
+428,HP,Gaming,Intel Core i7,12,Nvidia GeForce,Windows 10,3.35,178331,127.0,0,0
+431,Lenovo,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.4,90102,166.0,1,0
+432,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.7,53437,157.0,1,0
+433,Lenovo,Workstation,Intel Core i7,16,Nvidia GeForce,Windows 10,2.3,218118,282.0,1,0
+434,Lenovo,Notebook,Intel Core i7,16,Nvidia Quadro,Windows 10,2.5,218475,141.0,0,0
+435,Asus,Gaming,AMD Ryzen Series,8,AMD Radeon,Windows 10,3.2,151211,127.0,0,0
+436,HP,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.1,30956,100.0,0,0
+438,Lenovo,Ultrabook,Intel Core i7,24,Intel HD,Windows 10,1.32,212498,210.0,0,0
+439,Asus,Notebook,Intel Core i5,4,Intel HD,Linux,2.0,49868,141.0,0,0
+440,Lenovo,Notebook,AMD A-Series,8,AMD Radeon,Windows 10,2.8,46300,106.0,0,0
+441,Dell,Notebook,Intel Core i5,4,AMD Radeon,Windows 10,2.2,66818,141.0,0,0
+442,Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.36,127481,176.0,1,0
+443,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.2,31134,141.0,0,0
+444,HP,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,98042,141.0,1,0
+445,Dell,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,1.64,105179,157.0,0,0
+446,Acer,Notebook,Intel Core i5,4,Intel HD,Linux,2.4,39413,100.0,0,0
+447,Dell,Workstation,Other Intel Processor,8,Nvidia Quadro,Windows 10,2.23,177796,141.0,0,0
+448,MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.2,91685,141.0,0,0
+450,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.91,52545,100.0,0,0
+451,Dell,Workstation,Intel Core i7,16,Nvidia Quadro,Windows 10,2.17,176190,141.0,1,0
+452,HP,Workstation,Intel Core i7,8,Intel HD,Windows 10,2.31,136848,141.0,1,0
+453,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.65,119987,157.0,0,0
+454,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.36,87337,141.0,0,0
+455,Dell,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Windows 10,1.47,42732,135.0,0,1
+456,Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,4.42,182524,127.0,1,0
+459,HP,Notebook,Intel Core i3,8,Intel HD,Windows 10,2.5,57085,106.0,0,0
+460,Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Windows 10,2.23,48530,141.0,0,0
+461,Acer,Netbook,Other Intel Processor,4,Intel HD,Windows 10,1.4,38806,135.0,0,0
+462,Asus,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.37,66818,141.0,0,0
+463,Lenovo,Notebook,Intel Core i7,8,AMD Radeon,No OS,1.5,71279,157.0,1,0
+464,Lenovo,Notebook,Intel Core i7,8,Nvidia Quadro,Windows 10,2.67,186449,141.0,0,0
+465,Asus,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.0,27120,100.0,0,0
+466,Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Windows 10,2.2,41839,100.0,0,0
+467,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.02,67710,141.0,0,0
+468,HP,Gaming,Intel Core i7,12,Nvidia GeForce,Windows 10,3.78,151568,127.0,1,0
+469,Lenovo,Ultrabook,Intel Core i7,12,Intel HD,Windows 10,1.4,165752,210.0,1,0
+470,HP,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Windows 10,1.29,178331,331.0,1,1
+471,HP,Notebook,Intel Core i5,8,AMD FirePro,Windows 10,1.9,102948,141.0,0,0
+473,Dell,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.42,164311,166.0,0,1
+474,Asus,Notebook,Intel Core i7,12,Intel HD,Windows 10,2.06,115884,282.0,1,0
+475,Dell,Notebook,Intel Core i3,8,Intel HD,Windows 10,1.79,66015,112.0,0,0
+476,Dell,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 10,1.78,214818,141.0,0,0
+477,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.7,121682,157.0,0,0
+478,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.2,60217,141.0,0,0
+479,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.05,149159,166.0,1,0
+480,Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.16,112583,141.0,1,0
+481,Dell,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.18,52331,100.0,0,0
+482,HP,Notebook,Intel Core i5,4,Intel UHD,Windows 10,1.49,64766,166.0,1,0
+484,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.3,50404,100.0,0,0
+485,Lenovo,Notebook,Intel Core i5,8,Intel UHD,Windows 10,1.75,93581,157.0,1,0
+486,Dell,Workstation,Intel Core i7,16,Nvidia Quadro,Windows 10,2.17,208573,141.0,1,0
+487,Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,2.06,169410,141.0,0,0
+488,Lenovo,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.36,160400,176.0,1,0
+489,Asus,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,0.91,173960,176.0,0,0
+490,Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.3,90280,141.0,1,0
+491,Toshiba,Ultrabook,Intel Core i7,32,Intel HD,Windows 10,1.05,249699,166.0,0,1
+492,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,1.99,120433,141.0,0,0
+493,Acer,Notebook,AMD A-Series,8,AMD Radeon,Windows 10,2.2,51653,100.0,0,0
+494,Asus,Gaming,Intel Core i7,24,Nvidia GeForce,Windows 10,4.33,113207,127.0,1,1
+495,Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.3,98042,125.0,1,0
+496,Lenovo,Notebook,Intel Core i7,8,Intel UHD,Windows 10,2.17,80191,141.0,0,0
+497,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.48,156028,157.0,0,0
+498,Lenovo,Notebook,Intel Core i3,8,Intel HD,Windows 10,1.4,84660,166.0,1,0
+499,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.3,81270,141.0,1,0
+500,Asus,Netbook,Other Intel Processor,4,Intel HD,Windows 10,1.2,30331,135.0,0,0
+501,HP,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,1.91,55220,100.0,0,0
+503,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.1,26674,112.0,0,0
+504,Lenovo,Netbook,Other Intel Processor,4,Intel HD,Chrome OS,1.25,23641,135.0,0,0
+505,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.44,84660,166.0,0,0
+506,Asus,Notebook,Intel Core i7,8,Intel HD,Windows 10,2.0,109193,141.0,0,0
+507,Acer,Notebook,Intel Core i5,4,Nvidia GeForce,Windows 10,2.2,54686,141.0,1,0
+508,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.34,118025,166.0,1,0
+509,Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,No OS,2.4,102502,141.0,1,0
+510,Dell,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.29,80200,166.0,1,1
+511,Acer,Notebook,Intel Core i7,4,Nvidia GeForce,Windows 10,2.2,57005,141.0,0,0
+512,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.18,74580,141.0,0,0
+513,Dell,Notebook,Intel Core i7,16,AMD Radeon,Windows 10,2.2,108768,141.0,0,0
+515,Asus,Netbook,Other Intel Processor,2,Intel HD,Windows 10,1.1,21856,135.0,0,0
+516,HP,Notebook,Intel Core i5,4,Intel UHD,Windows 10,2.04,46520,100.0,0,1
+517,Asus,Gaming,Intel Core i7,24,Nvidia GeForce,Windows 10,2.24,264775,141.0,0,0
+518,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.04,79308,141.0,0,0
+519,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.0,134172,127.0,0,0
+520,Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,3.2,124805,141.0,1,0
+521,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.32,124805,166.0,1,0
+522,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.64,114165,157.0,0,0
+523,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.63,61466,100.0,0,0
+524,Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux,2.8,79308,127.0,1,0
+525,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 7,2.02,119541,157.0,0,0
+526,Lenovo,Notebook,Intel Core i7,4,Nvidia GeForce,Windows 10,2.2,71279,141.0,0,0
+527,Lenovo,Notebook,Intel Core i3,8,Nvidia GeForce,No OS,2.2,40947,100.0,0,0
+528,Dell,Notebook,Intel Core i5,4,AMD Radeon,Windows 10,2.3,52188,141.0,0,0
+529,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.9,122842,141.0,0,0
+530,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.42,268769,127.0,1,0
+531,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.0,76721,141.0,1,0
+532,Asus,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.0,115884,282.0,1,0
+534,Asus,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.3,147107,141.0,1,0
+535,Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.93,122128,141.0,0,0
+536,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.2,71137,141.0,0,0
+537,HP,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.86,35594,141.0,0,0
+538,HP,Gaming,Intel Core i7,12,Nvidia GeForce,Windows 10,2.62,160489,127.0,0,0
+539,Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.87,76631,157.0,1,0
+540,Dell,Ultrabook,Intel Core i7,8,Intel UHD,Windows 10,1.2,124805,276.0,0,1
+541,Dell,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.6,65647,157.0,0,0
+542,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.34,102145,276.0,1,0
+543,Acer,Gaming,Intel Core i5,8,Nvidia GeForce,Linux,2.4,71190,141.0,0,0
+544,Asus,Notebook,AMD E-Series,4,AMD Radeon,Windows 10,2.0,31134,100.0,0,0
+545,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.1,62938,141.0,0,0
+546,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.87,70030,157.0,0,0
+547,Lenovo,Notebook,Intel Core i5,4,Intel HD,No OS,2.15,41246,141.0,0,0
+548,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.86,35416,141.0,0,0
+549,Lenovo,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.99,154244,141.0,1,0
+550,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.2,44516,141.0,0,0
+551,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.9,99647,141.0,0,0
+552,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.42,240778,127.0,1,0
+553,HP,Notebook,Intel Core i3,8,Intel HD,Windows 10,2.65,48544,106.0,0,0
+554,HP,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.63,114189,127.0,0,0
+555,Asus,Notebook,Other Intel Processor,4,Intel HD,Linux,2.0,19983,100.0,0,0
+557,Lenovo,Notebook,Intel Core i7,6,Nvidia GeForce,Windows 10,2.8,84660,106.0,0,0
+558,HP,Notebook,AMD A-Series,6,AMD Radeon,Windows 10,1.91,50752,141.0,1,0
+559,Dell,Notebook,Intel Core i3,4,AMD Radeon,Windows 10,2.18,55123,100.0,0,0
+560,Acer,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Windows 10,1.25,31134,190.0,1,1
+561,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.05,56202,141.0,0,0
+562,HP,Ultrabook,Other Intel Processor,16,Intel HD,Windows 10,1.16,175298,276.0,1,1
+563,Lenovo,Notebook,Intel Core i7,8,Nvidia Quadro,Windows 10,3.4,267541,127.0,1,0
+564,Asus,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.5,74847,141.0,0,0
+565,Dell,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.21,142647,331.0,1,1
+566,Dell,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.93,85552,100.0,0,0
+568,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.2,30688,141.0,0,0
+569,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.02,88318,112.0,0,0
+570,HP,Workstation,Intel Core i5,8,Nvidia Quadro,Windows 10,3.14,166019,106.0,0,0
+571,HP,Notebook,Other Intel Processor,8,Intel HD,Windows 10,1.94,34703,112.0,0,0
+572,HP,Notebook,AMD A-Series,6,AMD Radeon,Windows 10,1.95,57897,141.0,1,0
+573,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.3,74044,141.0,0,0
+574,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.05,61109,141.0,0,0
+576,Toshiba,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.24,166377,157.0,0,1
+577,Lenovo,Gaming,Intel Core i7,32,Nvidia GeForce,Windows 10,4.6,237566,127.0,1,0
+578,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.14,243454,127.0,0,0
+579,Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux,2.2,66819,141.0,0,0
+581,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.9,89970,100.0,0,0
+582,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.49,64142,166.0,0,0
+583,Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,1.93,137151,141.0,0,0
+584,Dell,Netbook,Other Intel Processor,4,Intel HD,Chrome OS,1.26,26317,135.0,0,0
+585,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.5,209554,127.0,0,0
+586,HP,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.78,133637,127.0,1,0
+587,Lenovo,Ultrabook,Intel Core i7,12,Intel HD,Windows 10,1.4,149248,157.0,1,0
+588,Lenovo,Notebook,Intel Core i7,12,Intel HD,Windows 10,2.2,54329,100.0,0,1
+589,Asus,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.73,157902,127.0,1,0
+590,Asus,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,2.2,65926,100.0,0,1
+591,Lenovo,Notebook,AMD A-Series,12,AMD Radeon,Windows 10,2.2,84660,141.0,0,0
+592,Dell,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Windows 10,1.39,53794,135.0,0,1
+594,Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,2.8,47192,127.0,0,0
+595,Lenovo,Notebook,Intel Core i3,8,Intel HD,Windows 10,2.29,40947,100.0,0,0
+596,Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.37,180650,166.0,1,1
+597,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.7,131496,157.0,1,0
+598,Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.34,148981,176.0,0,1
+599,Dell,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 10,2.06,157277,141.0,0,1
+600,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.84,108747,141.0,0,0
+601,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.1,59635,100.0,0,0
+602,Acer,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.6,29350,157.0,0,0
+603,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.14,196173,127.0,0,0
+604,Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux,2.18,41483,100.0,0,0
+605,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,1.8,205094,282.0,0,0
+606,Toshiba,Notebook,Intel Core i7,8,Intel HD,Windows 10,2.2,124805,141.0,1,0
+607,Lenovo,Notebook,Intel Core i5,6,Intel HD,Windows 10,2.4,50314,141.0,0,0
+608,Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,2.0,115884,141.0,1,1
+609,Acer,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.6,31134,112.0,0,0
+610,Lenovo,Notebook,Other Intel Processor,32,Nvidia Quadro,Windows 10,2.5,437040,282.0,1,0
+611,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.59,78416,141.0,0,0
+612,Dell,Notebook,Intel Core i3,4,Intel HD,Linux,2.18,39600,100.0,0,0
+613,Dell,Notebook,Intel Core i3,4,Intel HD,Linux,2.25,32026,100.0,0,0
+614,Dell,Notebook,Intel Core i5,4,Intel HD,Linux,1.93,77523,100.0,0,0
+615,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,3.0,104197,127.0,0,0
+616,Dell,Notebook,Intel Core i5,4,AMD Radeon,Linux,2.18,50760,141.0,0,0
+617,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.84,123913,141.0,0,0
+618,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.94,202316,141.0,0,0
+619,Acer,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Chrome OS,1.25,33811,135.0,1,1
+620,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.31,100272,112.0,0,0
+621,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 7,1.65,130693,157.0,0,0
+622,Dell,Notebook,Intel Core i5,4,AMD Radeon,Windows 10,2.2,69227,141.0,0,0
+624,HP,Notebook,Intel Core i5,4,Intel HD,Windows 7,1.88,83144,100.0,0,0
+625,Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,80200,141.0,0,0
+627,Lenovo,Notebook,Intel Core i5,4,Intel HD,No OS,2.2,41750,141.0,0,0
+628,Asus,2 in 1 Convertible,Intel Core i5,6,Intel HD,Windows 10,1.5,57006,166.0,0,1
+629,Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.0,162362,141.0,0,0
+630,Asus,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.1,169499,157.0,0,0
+631,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.62,131942,141.0,0,0
+632,Lenovo,Notebook,Intel Core i5,4,Intel UHD,Windows 10,1.8,73955,141.0,0,0
+633,Lenovo,Notebook,Intel Core i3,4,Nvidia GeForce,Windows 10,2.2,51653,141.0,0,0
+634,Asus,Notebook,Other Intel Processor,8,Intel HD,Windows 10,2.0,35595,100.0,0,0
+635,Asus,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,1.99,80880,141.0,0,0
+636,Dell,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.23,166733,276.0,0,1
+637,Lenovo,Notebook,Other Intel Processor,2,Intel HD,Windows 10,1.42,22213,112.0,0,0
+638,Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.37,156779,166.0,1,1
+639,Dell,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,2.06,214015,282.0,0,1
+640,Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.5,98934,141.0,1,0
+642,Lenovo,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.14,218564,157.0,1,0
+643,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,No OS,2.5,104286,141.0,1,0
+644,Acer,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.4,40144,100.0,0,0
+645,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.43,24444,112.0,0,0
+646,Acer,Ultrabook,Intel Core i5,8,Intel Graphics,Windows 10,1.8,81984,157.0,1,0
+648,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.2,108212,166.0,0,0
+649,Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.36,141309,176.0,1,0
+650,Asus,Gaming,Intel Core i7,32,Nvidia GeForce,Windows 10,3.8,249699,127.0,1,0
+651,Acer,Gaming,Intel Core i5,8,Nvidia GeForce,Linux,2.4,63250,141.0,0,0
+652,Dell,Ultrabook,Intel Core i5,8,Intel UHD,Windows 10,1.2,129346,166.0,0,0
+653,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,106320,141.0,0,0
+654,HP,Notebook,Intel Core i3,4,Intel HD,No OS,1.86,32553,100.0,0,0
+655,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.0,94919,141.0,1,0
+656,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.2,81984,141.0,0,0
+657,Dell,Notebook,Intel Core i7,16,AMD Radeon,Windows 10,2.2,101253,141.0,0,0
+658,Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,3.31,106695,141.0,1,0
+659,Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Windows 10,4.42,280777,255.0,1,0
+660,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.56,109639,157.0,0,0
+661,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.2,37379,100.0,0,0
+662,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.2,47727,141.0,0,0
+663,HP,Notebook,Intel Core i3,6,AMD Radeon,Windows 10,2.04,48084,141.0,0,0
+664,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.7,132635,127.0,0,0
+665,Toshiba,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.1,44427,100.0,0,0
+666,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.06,85196,141.0,0,0
+667,HP,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.1,66461,141.0,0,0
+668,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.0,112226,141.0,1,0
+669,Acer,Notebook,Intel Core i3,4,Intel HD,Linux,2.1,36755,100.0,0,0
+671,Lenovo,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,1.9,72969,141.0,0,0
+672,Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.3,92243,166.0,1,1
+673,Lenovo,Notebook,AMD E-Series,4,AMD Radeon,Windows 10,2.2,31134,100.0,0,0
+674,HP,2 in 1 Convertible,Intel Core i3,4,Nvidia GeForce,Windows 10,1.63,62358,157.0,1,1
+675,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.4,115438,141.0,0,0
+676,Asus,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.1,101253,157.0,0,0
+677,HP,2 in 1 Convertible,Other Intel Processor,8,Intel HD,Chrome OS,1.4,44159,135.0,0,1
+679,Acer,Gaming,Intel Core i5,16,Nvidia GeForce,Windows 10,2.5,115884,141.0,0,0
+680,MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.2,89023,141.0,0,0
+681,Asus,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.86,37379,100.0,0,0
+682,Dell,Gaming,Intel Core i5,16,Nvidia GeForce,Windows 10,3.21,182970,141.0,0,0
+683,HP,Notebook,Intel Core i3,4,AMD Radeon,Windows 10,2.5,62358,127.0,1,0
+684,Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel UHD,Windows 10,1.19,133726,166.0,1,1
+685,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.49,251015,141.0,0,0
+686,HP,Notebook,Intel Core i5,4,AMD Radeon,Windows 10,1.86,54651,100.0,0,0
+687,Dell,Notebook,Intel Core i3,4,AMD Radeon,Windows 10,2.2,48679,100.0,0,0
+688,HP,Notebook,AMD A-Series,6,AMD Radeon,Windows 10,2.65,50760,127.0,1,0
+689,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.1,28369,100.0,0,0
+690,Acer,Notebook,Other Intel Processor,4,Intel HD,Chrome OS,1.45,33454,112.0,0,0
+691,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.7,62358,157.0,0,0
+692,HP,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 10,3.14,170212,127.0,0,0
+693,Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.42,231054,210.0,0,1
+694,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.5,86801,166.0,1,0
+695,Acer,Netbook,Other Intel Processor,4,Intel HD,Windows 10,1.4,23997,135.0,0,0
+696,Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Windows 10,1.38,156028,157.0,0,1
+697,Asus,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Chrome OS,1.2,59681,176.0,0,1
+698,Toshiba,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.36,167447,166.0,0,1
+699,HP,Notebook,Intel Core i7,4,AMD Radeon,Windows 10,2.1,61466,141.0,1,0
+700,Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.56,73063,141.0,0,0
+701,Lenovo,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.2,35595,141.0,0,0
+702,Lenovo,Notebook,AMD A-Series,8,AMD Radeon,Windows 10,2.2,38271,100.0,0,0
+703,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.1,55440,141.0,0,0
+704,Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,1.9,40144,100.0,0,0
+705,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.18,70922,141.0,0,0
+706,Acer,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Windows 10,1.6,89121,166.0,1,1
+707,Lenovo,Workstation,Intel Core i7,16,Nvidia Quadro,Windows 7,2.18,165485,141.0,0,0
+708,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.8,106249,157.0,0,0
+709,HP,Notebook,AMD A-Series,6,AMD Radeon,Windows 10,2.71,58433,127.0,1,0
+710,Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.5,111423,141.0,1,0
+711,Dell,Notebook,Intel Core i5,8,Nvidia GeForce,Linux,1.64,97150,157.0,0,0
+712,Dell,Notebook,Intel Core i5,8,Intel HD,Linux,1.98,64766,141.0,0,0
+713,Asus,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.5,26585,157.0,0,0
+714,Dell,Notebook,Intel Core i5,16,Intel HD,Windows 10,1.93,127272,141.0,0,0
+715,Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,1.87,76459,157.0,1,0
+716,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.9,105179,141.0,0,0
+717,Lenovo,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.19,26585,100.0,0,0
+719,HP,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.63,107052,127.0,0,0
+720,Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.17,150465,210.0,1,0
+721,HP,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.58,74633,118.0,1,1
+722,Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.32,133726,157.0,1,0
+723,Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Windows 10,4.36,326455,255.0,0,0
+724,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.7,120298,127.0,0,0
+725,Lenovo,Notebook,Intel Core i5,4,Intel HD,No OS,1.9,43704,100.0,0,0
+726,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.2,64142,141.0,0,0
+727,Dell,2 in 1 Convertible,Intel Core i3,4,Intel HD,Windows 10,1.71,57897,166.0,0,1
+728,Dell,Notebook,Intel Core i5,8,AMD Radeon,Linux,2.32,52591,100.0,0,0
+729,HP,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.1,43624,141.0,0,0
+730,Acer,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.2,172621,127.0,1,0
+731,Dell,Notebook,Intel Core i5,12,Intel HD,Windows 10,2.25,57897,100.0,0,0
+732,HP,Notebook,AMD A-Series,6,AMD Radeon,Windows 10,2.1,57986,141.0,0,0
+733,Acer,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.4,49868,100.0,0,0
+734,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.44,85642,166.0,1,0
+735,Lenovo,Notebook,Intel Core i7,4,Intel HD,Windows 10,1.85,69495,141.0,0,0
+736,HP,Workstation,Intel Core i7,16,Nvidia Quadro,Windows 10,2.6,215799,141.0,0,0
+737,Dell,2 in 1 Convertible,Intel Core i5,8,Intel UHD,Windows 10,1.55,58789,166.0,0,1
+738,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,1.8,186849,141.0,0,0
+739,Acer,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.4,36647,100.0,0,0
+740,Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.0,107676,141.0,0,0
+741,Dell,Notebook,Intel Core i3,8,Intel HD,Windows 10,2.0,59325,100.0,0,0
+742,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.25,136937,157.0,1,1
+743,Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.7,89121,157.0,0,1
+744,Lenovo,Workstation,Intel Core i7,16,Nvidia Quadro,Windows 10,2.5,294304,282.0,1,0
+745,Acer,Notebook,Other Intel Processor,2,Intel HD,Chrome OS,1.68,29439,112.0,0,0
+747,HP,Notebook,Intel Core i3,8,Intel HD,Windows 10,1.86,48084,141.0,0,0
+748,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.6,100514,112.0,0,0
+749,HP,Workstation,Other Intel Processor,16,Nvidia Quadro,Windows 7,3.0,391543,127.0,1,0
+750,Lenovo,Netbook,Other Intel Processor,4,Intel HD,Windows 10,1.4,42375,135.0,0,1
+751,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.84,169499,141.0,0,0
+752,Asus,Notebook,Intel Core i5,4,Nvidia GeForce,No OS,2.45,51653,100.0,0,0
+753,Lenovo,Ultrabook,Intel Core i5,4,Intel HD,Windows 10,1.7,97774,157.0,0,0
+754,Asus,Notebook,Intel Core i7,4,Intel HD,Windows 10,2.37,75820,100.0,0,0
+755,Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.3,106963,276.0,1,1
+756,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.2,98042,141.0,1,0
+757,HP,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 7,2.59,139257,141.0,0,0
+758,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.42,255943,282.0,1,0
+759,Acer,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.1,53437,100.0,0,0
+760,Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.5,93492,141.0,1,0
+761,Dell,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.18,165841,176.0,0,0
+763,Asus,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.2,100718,276.0,1,0
+764,Dell,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.65,75739,118.0,0,0
+765,Acer,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.6,58433,118.0,0,0
+766,Asus,Notebook,Other Intel Processor,4,Nvidia GeForce,Windows 10,2.8,41959,91.0,0,0
+767,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.72,98042,282.0,1,1
+769,Acer,Notebook,Other Intel Processor,4,Intel HD,Linux,2.1,26585,100.0,0,0
+770,Dell,Notebook,Intel Core i7,16,AMD Radeon,Windows 10,2.3,105381,141.0,0,0
+772,Toshiba,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.75,90994,112.0,1,0
+773,Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.62,98042,141.0,0,0
+774,HP,Ultrabook,Intel Core i5,4,Intel HD,Windows 10,1.26,110977,125.0,0,0
+775,Asus,2 in 1 Convertible,Intel Core i7,12,Nvidia GeForce,Windows 10,2.3,74847,141.0,0,1
+776,Lenovo,Notebook,Intel Core i7,16,Nvidia Quadro,Windows 7,2.5,211428,282.0,0,0
+777,Acer,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.8,56738,157.0,1,0
+779,Asus,Notebook,Other Intel Processor,8,Intel HD,Windows 10,2.0,51911,141.0,0,0
+780,Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Windows 10,4.42,320157,127.0,1,0
+781,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.3,209643,127.0,1,0
+782,Toshiba,Ultrabook,Intel Core i7,16,Nvidia GeForce,Windows 10,1.47,157366,157.0,1,0
+783,Lenovo,Notebook,Other Intel Processor,8,Intel HD,No OS,2.2,29350,100.0,0,0
+784,Lenovo,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.7,205094,157.0,0,0
+785,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,1.6,168696,157.0,1,0
+786,MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.2,97150,141.0,0,0
+787,Lenovo,Gaming,Intel Core i7,4,Nvidia GeForce,Windows 10,2.4,89121,141.0,1,0
+788,Acer,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.2,205094,127.0,1,0
+789,Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.62,87872,141.0,0,0
+790,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.24,119452,141.0,0,0
+792,Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.37,175744,166.0,1,1
+793,Lenovo,2 in 1 Convertible,Intel Core i5,8,AMD Radeon,Windows 10,2.08,85552,141.0,0,1
+795,Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.42,207859,210.0,1,1
+796,Asus,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.63,26674,112.0,0,0
+797,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.95,72260,100.0,0,0
+799,Dell,Notebook,Intel Core i3,8,AMD Radeon,Windows 10,2.0,65926,141.0,0,0
+800,HP,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 10,3.14,184210,141.0,0,0
+801,Asus,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.37,98042,141.0,0,0
+802,Dell,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.29,133726,166.0,0,0
+803,Dell,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.06,156028,282.0,0,1
+804,Dell,Netbook,Other Intel Processor,4,Intel HD,Windows 10,1.63,66372,135.0,0,0
+805,HP,Netbook,Intel Core i5,8,Intel HD,Windows 10,1.26,123913,125.0,0,0
+806,Toshiba,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.1,69584,100.0,0,0
+807,HP,Notebook,AMD A-Series,8,AMD Radeon,Windows 10,2.04,56113,100.0,0,0
+808,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.62,149784,282.0,0,0
+809,Lenovo,Notebook,Intel Core i5,4,Nvidia GeForce,Windows 10,2.4,54329,141.0,0,0
+810,HP,Gaming,Intel Core i7,12,AMD Radeon,Windows 10,3.74,156028,127.0,1,0
+811,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.9,215442,127.0,0,0
+813,Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.98,85731,141.0,0,0
+814,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.18,70459,141.0,0,0
+815,Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.32,165841,157.0,0,0
+817,HP,Netbook,Other Intel Processor,4,Intel HD,Chrome OS,1.23,34346,135.0,0,0
+818,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.36,223473,127.0,1,0
+819,Dell,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.76,67354,112.0,0,0
+820,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.1,43704,100.0,0,0
+821,Toshiba,Ultrabook,Intel Core i5,4,Intel HD,Windows 10,1.25,97239,112.0,0,0
+822,Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.13,222936,157.0,1,0
+823,MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.4,106963,141.0,0,0
+824,Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.13,167269,157.0,1,0
+825,Toshiba,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.75,44516,112.0,0,0
+826,Asus,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.1,121147,166.0,0,1
+827,Dell,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.76,52188,112.0,0,0
+828,Acer,Netbook,Other Intel Processor,4,Intel HD,Chrome OS,1.35,31670,135.0,1,0
+829,Acer,Notebook,Intel Core i3,8,Intel HD,Windows 10,1.5,55221,157.0,1,0
+831,Lenovo,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.1,187252,210.0,1,0
+832,Asus,Notebook,Intel Core i5,4,Nvidia GeForce,Linux,2.1,46300,141.0,0,0
+833,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.7,105803,157.0,0,0
+834,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.32,147196,157.0,1,0
+835,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.21,247525,141.0,0,0
+836,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.9,215799,127.0,0,0
+837,Toshiba,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.0,59681,100.0,0,0
+838,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Chrome OS,1.5,28993,112.0,0,0
+839,Asus,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.3,52634,141.0,0,0
+840,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.73,160489,127.0,0,0
+841,Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Windows 10,4.42,274133,127.0,1,0
+842,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.63,81181,106.0,0,0
+843,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.18,63695,100.0,0,0
+844,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 7,1.54,166823,157.0,0,0
+845,Dell,Notebook,Intel Core i7,4,AMD Radeon,Windows 10,2.18,65926,141.0,0,0
+846,HP,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Chrome OS,1.4,54864,135.0,0,1
+847,Asus,Ultrabook,Intel Core i5,8,Nvidia GeForce,Windows 10,1.45,91529,166.0,1,0
+848,HP,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.28,203131,166.0,0,1
+849,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.54,130960,157.0,0,0
+850,HP,Notebook,Other Intel Processor,4,Intel HD,No OS,1.86,26674,100.0,0,0
+851,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.1,169410,141.0,0,0
+852,Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux,2.83,77167,127.0,0,0
+853,Lenovo,Ultrabook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.96,169767,157.0,1,0
+854,Asus,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.3,70208,141.0,1,0
+855,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.9,84303,141.0,0,0
+856,Asus,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.0,40055,100.0,0,0
+857,HP,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.28,228288,166.0,0,1
+858,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.62,57897,166.0,0,1
+859,Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,2.2,41839,141.0,0,0
+860,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.3,75887,141.0,1,0
+861,HP,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,1.84,120344,141.0,0,0
+862,Toshiba,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.05,114635,166.0,0,0
+863,Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,No OS,2.5,90727,141.0,1,0
+864,Dell,Ultrabook,Intel Core i7,16,Intel Iris,Windows 10,1.29,199830,276.0,0,1
+865,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.07,81181,141.0,0,0
+866,Toshiba,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.2,97685,118.0,0,0
+867,Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.37,173960,166.0,1,1
+868,Acer,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.56,80467,157.0,1,0
+869,Dell,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 10,2.23,158615,141.0,0,0
+870,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.38,94117,100.0,0,0
+871,Lenovo,Notebook,Intel Core i3,4,AMD Radeon,No OS,2.2,42732,141.0,0,0
+872,Toshiba,Notebook,Intel Core i7,8,Intel HD,Windows 10,2.0,123823,141.0,1,0
+873,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.44,65569,166.0,1,0
+875,Dell,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.6,150765,176.0,0,0
+876,Asus,Notebook,Other Intel Processor,4,Intel HD,Linux,2.0,35594,100.0,0,0
+878,Dell,Notebook,Intel Core i5,4,Nvidia GeForce,Windows 10,2.18,81404,141.0,0,0
+879,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.04,74847,141.0,0,0
+880,HP,2 in 1 Convertible,Intel Core i5,4,Intel HD,Windows 10,1.28,151657,166.0,0,1
+881,HP,2 in 1 Convertible,Intel Core i5,4,Intel HD,Windows 10,2.3,61091,100.0,0,1
+883,Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,59681,141.0,1,0
+884,Dell,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.2,32918,100.0,0,0
+885,HP,2 in 1 Convertible,Intel Core i5,4,Intel HD,Windows 10,1.28,160489,166.0,0,1
+886,Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux,2.18,40653,100.0,0,0
+887,Asus,Gaming,Intel Core i5,12,Nvidia GeForce,Windows 10,2.2,122209,127.0,0,0
+888,Acer,Netbook,Other Intel Processor,4,Intel HD,Chrome OS,1.25,26495,135.0,1,0
+889,Lenovo,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.8,33811,106.0,0,0
+890,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.95,112851,157.0,0,0
+891,HP,2 in 1 Convertible,Intel Core i7,16,Intel HD,Windows 10,1.42,124805,276.0,0,1
+893,Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.32,160489,157.0,1,0
+894,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.43,236317,255.0,1,0
+895,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.05,131585,166.0,0,0
+896,Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Linux,2.62,82876,141.0,0,0
+897,HP,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.04,80289,141.0,0,0
+898,Dell,Notebook,Intel Core i3,4,AMD Radeon,Windows 10,2.18,54775,100.0,0,0
+899,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.9,83411,141.0,0,0
+900,Dell,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.24,179589,276.0,0,1
+901,Asus,Gaming,Intel Core i7,32,Nvidia GeForce,Windows 10,3.58,114100,127.0,1,0
+902,Dell,2 in 1 Convertible,Intel Core i7,16,Intel HD,Windows 10,1.22,147107,166.0,0,1
+903,Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.13,182791,157.0,1,0
+904,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.95,175118,141.0,1,0
+906,HP,Netbook,Intel Core i7,8,Intel HD,Windows 10,1.26,132298,176.0,0,0
+907,Acer,Notebook,Other Intel Processor,4,Intel HD,Chrome OS,2.2,32026,141.0,1,0
+908,Lenovo,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.6,70387,141.0,1,0
+910,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.6,107498,157.0,0,0
+911,HP,Ultrabook,Other Intel Processor,8,Intel HD,Windows 10,1.09,276551,352.0,0,1
+912,Lenovo,Notebook,Intel Core i7,6,Nvidia GeForce,Windows 10,2.2,70387,141.0,0,0
+913,HP,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.04,90904,141.0,0,0
+914,Acer,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.4,44516,141.0,0,0
+915,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.44,78594,166.0,0,0
+916,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.49,85642,166.0,0,0
+917,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.7,142647,127.0,0,0
+918,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.6,120344,141.0,0,0
+919,MSI,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.2,99907,141.0,0,0
+920,Dell,Notebook,Intel Core i5,4,AMD Radeon,Windows 10,2.18,61108,100.0,0,0
+921,HP,Ultrabook,Intel Core i7,8,AMD Radeon,Windows 10,1.84,115704,141.0,0,0
+922,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.39,102502,276.0,0,1
+923,Toshiba,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,2.4,176190,141.0,1,0
+924,Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.37,162808,166.0,1,1
+925,Dell,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.95,65114,100.0,0,0
+926,Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.36,147196,176.0,1,0
+927,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.31,103930,141.0,0,0
+928,Dell,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.18,63166,100.0,0,0
+929,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.95,102502,112.0,0,0
+930,Lenovo,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.2,27566,100.0,0,0
+931,HP,Ultrabook,Intel Core i5,4,Intel HD,Windows 10,1.26,140863,176.0,0,0
+932,HP,Notebook,Other Intel Processor,4,Intel HD,No OS,1.86,25773,100.0,0,0
+933,Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel Iris,Windows 10,1.3,160489,276.0,1,1
+934,Toshiba,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.47,98577,157.0,1,0
+935,HP,Netbook,Intel Core i5,8,Intel HD,Windows 10,1.26,148891,176.0,0,0
+936,Dell,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.18,49833,100.0,0,0
+937,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,106963,141.0,0,0
+938,Dell,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.36,146215,157.0,0,0
+939,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.36,246041,170.0,0,0
+940,HP,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.75,124805,127.0,1,0
+941,Asus,Notebook,Other Intel Processor,4,Nvidia GeForce,Windows 10,2.8,47281,106.0,0,0
+942,Acer,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.23,55221,100.0,0,0
+943,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.2,99826,100.0,0,0
+945,Lenovo,Gaming,AMD F-Series,16,AMD Radeon,Windows 10,2.5,89121,141.0,1,0
+946,Dell,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.36,131335,176.0,0,1
+947,Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.2,61109,141.0,0,0
+948,Dell,Notebook,Intel Core i3,4,AMD Radeon,Windows 10,2.36,58789,106.0,0,0
+949,Acer,Notebook,Other Intel Processor,4,Intel HD,Chrome OS,1.68,31134,112.0,0,0
+950,HP,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 10,2.0,200633,141.0,1,0
+951,Dell,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.36,158348,157.0,0,0
+952,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 7,1.2,130247,166.0,0,0
+953,Asus,2 in 1 Convertible,Other Intel Processor,8,Intel HD,Chrome OS,1.2,103394,176.0,0,0
+954,Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.7,132833,157.0,1,0
+955,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.36,281368,255.0,1,0
+956,Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.24,169410,166.0,0,1
+957,HP,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Windows 10,1.45,69138,135.0,0,1
+958,Dell,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.3,113118,276.0,0,0
+959,Acer,2 in 1 Convertible,Other Intel Processor,4,Intel HD,Chrome OS,1.25,34703,135.0,1,1
+960,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.2,136937,166.0,0,0
+961,Lenovo,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.36,157010,176.0,1,0
+962,Acer,Notebook,Intel Core i5,12,Nvidia GeForce,Windows 10,2.4,90013,141.0,0,0
+963,Toshiba,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.1,159686,176.0,0,1
+964,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.04,75516,100.0,0,0
+965,Dell,Notebook,Intel Core i3,4,AMD Radeon,Linux,2.25,41538,100.0,0,0
+966,Dell,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.9,73598,100.0,0,0
+967,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.04,61109,141.0,0,0
+968,Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Windows 10,4.42,280922,127.0,1,0
+969,Lenovo,Notebook,Intel Core i5,6,Nvidia GeForce,Windows 10,2.4,62001,141.0,0,0
+970,Dell,2 in 1 Convertible,Intel Core i7,16,Intel HD,Windows 10,1.22,169410,276.0,0,1
+971,Dell,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.5,175117,210.0,0,1
+972,Dell,Gaming,Intel Core i7,32,Nvidia GeForce,Windows 10,4.42,249788,127.0,0,0
+973,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.95,105268,157.0,0,0
+974,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.73,182872,127.0,0,0
+975,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.04,87337,141.0,1,0
+976,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 7,1.7,89388,112.0,0,0
+977,Asus,2 in 1 Convertible,Intel Core i7,16,Nvidia GeForce,Windows 10,2.3,160489,282.0,0,1
+978,HP,Notebook,Intel Core i7,6,Intel HD,Windows 10,2.04,51653,100.0,0,0
+979,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.99,156028,127.0,0,0
+980,Dell,2 in 1 Convertible,Intel Core i7,12,Intel HD,Windows 10,2.19,115884,141.0,1,1
+981,Toshiba,Notebook,Intel Core i5,4,Intel HD,Windows 7,1.2,106606,166.0,0,0
+982,Lenovo,Notebook,AMD A-Series,6,AMD Radeon,Windows 10,2.2,48976,141.0,0,0
+984,Toshiba,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.75,81627,112.0,0,0
+985,Dell,Notebook,Intel Core i5,4,AMD Radeon,Windows 10,2.25,53437,100.0,0,0
+986,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.04,71903,141.0,0,0
+987,Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.5,106071,141.0,1,0
+988,Dell,Notebook,Intel Core i7,8,AMD Radeon,Windows 10,2.36,66818,100.0,0,0
+989,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.6,99826,157.0,0,0
+990,HP,Netbook,Other Intel Processor,8,Intel HD,Windows 10,0.97,170213,176.0,0,0
+991,HP,Notebook,Intel Core i3,4,AMD Radeon,Windows 10,2.1,44516,141.0,0,0
+992,Lenovo,Notebook,Other Intel Processor,4,Intel HD,No OS,1.9,24142,100.0,0,0
+993,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.3,120344,141.0,0,0
+994,Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.68,79308,166.0,0,1
+995,Asus,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.4,102592,276.0,0,0
+996,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.11,120344,166.0,1,1
+997,Acer,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.4,33900,100.0,0,0
+998,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.5,160489,141.0,0,0
+999,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.48,186360,157.0,0,0
+1000,Acer,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.7,112405,141.0,1,0
+1001,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.34,106071,166.0,1,0
+1002,Dell,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.18,48798,100.0,0,0
+1003,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.64,69495,112.0,0,0
+1004,Toshiba,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.2,106606,166.0,0,0
+1005,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.48,98130,112.0,0,0
+1006,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.95,107498,157.0,0,0
+1007,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 7,1.43,129265,157.0,0,0
+1008,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,1.64,93604,157.0,0,0
+1009,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.64,61020,112.0,0,0
+1010,Dell,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.65,84660,141.0,0,0
+1011,HP,Ultrabook,Intel Core i5,4,Intel HD,Windows 10,1.26,137294,176.0,0,0
+1012,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.48,141844,157.0,0,0
+1013,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.54,168358,157.0,0,0
+1014,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,1.49,71368,118.0,0,0
+1015,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.5,107944,118.0,0,0
+1016,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.04,68691,100.0,0,0
+1017,Lenovo,Notebook,Intel Core i7,16,Nvidia Quadro,Windows 7,2.4,264775,255.0,1,0
+1018,Toshiba,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.47,132923,157.0,1,0
+1019,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.43,198849,157.0,0,0
+1020,Dell,2 in 1 Convertible,Intel Core i3,4,Intel HD,Windows 10,2.08,71010,141.0,1,1
+1021,Toshiba,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.2,141844,166.0,0,0
+1022,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.11,102502,166.0,1,0
+1023,HP,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.64,105752,157.0,0,0
+1024,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.09,93353,141.0,0,0
+1025,HP,Ultrabook,Intel Core i5,4,Intel HD,Windows 10,1.26,139078,125.0,0,0
+1026,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.31,106071,112.0,0,0
+1027,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.95,94563,112.0,0,0
+1028,Dell,Ultrabook,Intel Core i5,8,Intel HD,Windows 10,1.29,144877,276.0,0,1
+1029,HP,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.63,96347,127.0,0,0
+1030,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.64,86801,112.0,0,0
+1031,Acer,Notebook,AMD A-Series,6,AMD Radeon,Windows 10,2.1,36487,100.0,0,0
+1032,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.7,106320,127.0,0,0
+1033,HP,Notebook,Intel Core i5,8,Intel HD,Windows 7,1.95,106606,157.0,0,0
+1034,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.84,109638,141.0,0,0
+1035,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.26,120344,176.0,0,0
+1036,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.04,66194,100.0,0,0
+1037,Toshiba,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.47,153887,157.0,1,0
+1038,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 7,2.09,94826,141.0,0,0
+1039,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.64,90148,157.0,0,0
+1040,Lenovo,2 in 1 Convertible,Intel Core i7,4,Intel HD,Windows 10,1.8,75561,141.0,1,1
+1042,Toshiba,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,2.4,127124,141.0,1,0
+1043,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.3,93635,141.0,0,0
+1044,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.54,89210,157.0,0,0
+1045,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.84,187639,141.0,0,0
+1046,HP,Notebook,Intel Core i5,8,Intel HD,Windows 7,1.43,131049,157.0,0,0
+1047,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.78,137887,127.0,1,0
+1048,Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.6,204290,127.0,1,0
+1049,Asus,Netbook,Other Intel Processor,4,Intel HD,Chrome OS,1.2,25684,135.0,0,0
+1050,Lenovo,Notebook,Intel Core i7,16,Intel HD,Windows 7,1.1,233730,210.0,1,0
+1051,HP,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,1.91,87337,141.0,1,0
+1052,Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,2.3,97596,141.0,1,1
+1053,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.04,87337,100.0,0,0
+1054,Dell,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.2,201079,276.0,0,1
+1055,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.31,62906,100.0,0,0
+1056,HP,Notebook,Intel Core i5,4,Intel HD,No OS,1.96,44516,100.0,0,0
+1057,Acer,Notebook,AMD A-Series,8,AMD Radeon,Windows 10,2.4,40055,100.0,0,0
+1058,Dell,2 in 1 Convertible,Intel Core i7,12,Intel HD,Windows 10,1.6,115884,166.0,1,1
+1059,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.94,162273,141.0,0,0
+1060,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,2.04,95455,141.0,0,0
+1061,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,No OS,4.0,89032,127.0,1,0
+1062,Dell,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.25,49868,141.0,0,0
+1063,Dell,Notebook,Intel Core i7,16,AMD Radeon,Windows 10,2.32,88317,141.0,0,0
+1064,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,1.8,172086,141.0,0,0
+1065,Dell,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.29,130068,166.0,0,0
+1066,Asus,Gaming,Intel Core i7,64,Nvidia GeForce,Windows 10,3.58,354610,127.0,1,0
+1067,Dell,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.62,71190,166.0,0,1
+1068,Dell,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.21,118560,282.0,0,0
+1070,Dell,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.06,42997,100.0,0,0
+1071,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.31,106963,100.0,0,0
+1072,HP,Ultrabook,Intel Core i5,8,Intel HD,Windows 7,1.26,106963,176.0,0,0
+1073,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.49,97239,166.0,0,0
+1074,Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.3,152860,176.0,1,1
+1075,Lenovo,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,3.0,58789,106.0,0,0
+1076,Lenovo,Notebook,Intel Core i5,4,Nvidia GeForce,Windows 10,2.3,87158,141.0,1,0
+1077,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.78,222936,127.0,0,0
+1078,Lenovo,Notebook,Intel Core i5,4,Intel HD,Windows 10,2.1,48173,100.0,0,0
+1079,HP,Notebook,Intel Core i5,4,Intel HD,Windows 7,2.31,83857,141.0,0,0
+1080,Lenovo,Ultrabook,Other Intel Processor,8,Intel HD,Windows 10,0.99,124805,235.0,1,1
+1081,Lenovo,Gaming,Intel Core i7,32,Nvidia GeForce,Windows 10,4.6,289040,127.0,1,0
+1083,HP,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.3,182791,331.0,1,0
+1084,Dell,Notebook,Intel Core i5,8,Intel HD,Windows 10,2.18,66908,141.0,0,0
+1085,HP,Notebook,Intel Core i5,4,Intel HD,Windows 7,1.54,91975,157.0,0,0
+1086,HP,Workstation,Intel Core i7,8,AMD FirePro,Windows 7,1.9,133369,141.0,0,0
+1087,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 7,1.7,106963,157.0,0,0
+1088,HP,Notebook,Other Intel Processor,4,Intel HD,Chrome OS,1.29,54864,276.0,0,0
+1089,Acer,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.4,34524,100.0,0,0
+1090,Dell,Notebook,Other Intel Processor,4,Intel HD,Linux,2.2,35103,100.0,0,0
+1091,HP,Notebook,Intel Core i3,4,Intel HD,No OS,1.86,30866,100.0,0,0
+1092,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.7,142647,127.0,1,0
+1093,Dell,Ultrabook,Intel Core i5,4,AMD Radeon,Windows 10,1.4,73005,166.0,1,0
+1094,HP,Netbook,Intel Core i5,4,Intel HD,Windows 7,2.4,142647,125.0,0,0
+1095,Acer,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.4,71279,141.0,0,0
+1096,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.36,56987,141.0,0,0
+1097,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.6,142647,127.0,0,0
+1098,HP,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.96,44605,100.0,0,0
+1099,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.3,205094,127.0,1,0
+1100,Dell,Ultrabook,Intel Core i3,4,Intel HD,Windows 7,1.5,101267,125.0,0,0
+1101,Dell,Ultrabook,Intel Core i3,4,Intel HD,Windows 7,1.5,104105,125.0,0,0
+1102,Acer,Notebook,Other Intel Processor,4,Intel HD,Chrome OS,2.2,18645,100.0,0,0
+1103,HP,Workstation,Intel Core i7,8,AMD FirePro,Windows 7,3.0,258620,127.0,1,0
+1104,Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.4,106963,141.0,0,0
+1105,Dell,Ultrabook,Intel Core i5,8,Intel HD,Windows 7,1.5,126063,125.0,0,0
+1106,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.9,134813,127.0,0,0
+1107,Lenovo,2 in 1 Convertible,Intel Core i5,4,Intel HD,Windows 10,2.1,77345,141.0,1,1
+1108,HP,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,2.1,35506,141.0,0,0
+1109,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.59,119452,141.0,1,0
+1110,HP,Notebook,Other Intel Processor,8,Intel HD,Windows 10,1.16,151568,276.0,0,1
+1111,Dell,Notebook,Intel Core i5,4,AMD Radeon,Windows 7,2.24,68616,100.0,0,0
+1112,Lenovo,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.1,38271,100.0,0,0
+1113,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.16,175654,166.0,0,0
+1115,Dell,Ultrabook,Intel Core i7,8,Intel Iris,Windows 10,1.23,123021,166.0,0,0
+1116,Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.6,245327,127.0,1,0
+1118,Toshiba,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.05,198581,166.0,0,0
+1119,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,3.52,117087,127.0,0,0
+1121,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.16,150765,166.0,0,0
+1122,HP,Notebook,Intel Core i5,8,Intel HD,Windows 7,1.43,134975,157.0,0,0
+1123,Dell,Notebook,Intel Core i5,4,Intel HD,Linux,2.09,46713,100.0,0,0
+1124,Asus,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.0,38806,100.0,0,0
+1125,Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.8,148891,157.0,1,1
+1127,HP,Ultrabook,Intel Core i5,8,Intel HD,Windows 7,1.26,169053,125.0,0,0
+1128,Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,No OS,2.4,88229,141.0,1,0
+1129,HP,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,3.35,100718,127.0,1,0
+1130,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,2.04,56113,100.0,0,0
+1131,Lenovo,2 in 1 Convertible,Intel Core i7,8,Nvidia Quadro,Windows 7,1.8,182914,157.0,1,1
+1132,Asus,Notebook,Other Intel Processor,4,Intel HD,Windows 10,1.5,24800,112.0,0,0
+1133,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.84,67086,141.0,0,0
+1134,Acer,Notebook,Intel Core i5,4,Nvidia GeForce,Windows 10,2.23,54953,141.0,0,0
+1135,Lenovo,Notebook,Intel Core i7,16,AMD Radeon,Windows 10,2.5,98042,141.0,0,0
+1136,HP,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 7,3.0,352326,127.0,1,0
+1137,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.5,69941,100.0,0,0
+1138,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.78,214015,127.0,0,0
+1139,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 7,1.88,193739,141.0,0,0
+1140,Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Windows 10,2.8,217672,210.0,1,1
+1141,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.4,101949,141.0,0,0
+1142,HP,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.48,145323,166.0,0,1
+1143,HP,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 7,2.59,198849,141.0,1,0
+1144,HP,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.48,160489,221.0,0,1
+1145,HP,Workstation,Intel Core i7,8,Nvidia Quadro,Windows 7,2.0,169410,141.0,0,0
+1146,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 7,1.26,204911,176.0,0,0
+1147,Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.18,90093,141.0,0,0
+1148,HP,Notebook,Intel Core i5,8,Intel HD,Windows 7,1.88,140863,141.0,0,0
+1149,Lenovo,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.27,208662,210.0,1,1
+1150,Lenovo,Notebook,Intel Core i3,4,Intel HD,No OS,1.9,30242,100.0,0,0
+1151,HP,Notebook,AMD E-Series,4,AMD Radeon,Windows 10,1.86,26495,100.0,0,0
+1152,Lenovo,Notebook,Intel Core i5,8,AMD Radeon,No OS,2.32,53437,141.0,0,0
+1153,Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.62,106963,141.0,0,0
+1154,Dell,Notebook,Intel Core i5,8,Nvidia GeForce,Windows 10,2.04,200783,282.0,1,1
+1155,HP,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,1.91,42722,141.0,0,0
+1156,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.7,133173,127.0,0,0
+1157,Lenovo,Ultrabook,Intel Core i7,12,Intel HD,Windows 7,1.4,205094,157.0,0,0
+1158,Lenovo,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.5,70341,141.0,0,0
+1159,HP,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.48,182078,221.0,0,1
+1160,Lenovo,Ultrabook,Intel Core i7,8,Intel HD,Windows 7,1.7,133726,157.0,0,0
+1161,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,1.7,157812,157.0,0,0
+1162,HP,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.62,80200,141.0,1,0
+1163,Lenovo,Notebook,Intel Core i3,8,Intel HD,Windows 10,2.2,40947,100.0,0,0
+1164,HP,Notebook,Intel Core i5,4,Intel HD,No OS,2.1,42552,100.0,0,0
+1165,Dell,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.62,133637,282.0,0,0
+1166,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.95,124002,141.0,1,0
+1167,Lenovo,Notebook,Intel Core i3,4,Nvidia GeForce,Windows 10,2.2,41750,141.0,0,0
+1168,HP,Notebook,Other Intel Processor,2,Intel HD,Windows 10,1.44,22213,112.0,0,0
+1169,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,74847,141.0,1,0
+1170,HP,Notebook,Intel Core i7,8,Intel HD,Windows 10,1.96,60574,141.0,0,0
+1171,HP,Notebook,Intel Core i7,16,Intel UHD,Windows 10,2.1,103394,141.0,0,0
+1172,Asus,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.2,32918,100.0,0,0
+1173,Lenovo,Notebook,Intel Core i5,4,Intel HD,No OS,2.1,35506,100.0,0,0
+1174,Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.2,63250,141.0,0,0
+1175,Asus,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.0,68602,157.0,0,0
+1176,Lenovo,Notebook,Intel Core i7,4,Intel HD,Windows 7,2.32,73598,141.0,0,0
+1177,Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,3.31,116419,141.0,1,0
+1178,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,1.91,192102,141.0,0,0
+1179,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.07,57986,100.0,0,0
+1180,Lenovo,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.36,146037,210.0,1,1
+1181,Lenovo,Ultrabook,Intel Core i7,6,Nvidia GeForce,Windows 10,1.54,74134,141.0,0,0
+1182,Dell,Notebook,Intel Core i7,8,Nvidia GeForce,Linux,1.98,79844,141.0,0,0
+1183,Acer,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.1,29707,100.0,0,0
+1184,HP,Notebook,Intel Core i7,6,Nvidia GeForce,Windows 10,2.18,71279,141.0,1,0
+1185,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.591,81092,141.0,1,0
+1186,Dell,2 in 1 Convertible,Intel Core i7,16,Intel HD,Windows 10,2.09,105179,141.0,0,1
+1187,Acer,Notebook,Intel Core i5,4,Nvidia GeForce,Windows 10,2.23,61644,141.0,0,0
+1188,Dell,Ultrabook,Intel Core i5,8,Intel HD,Linux,1.23,98042,276.0,0,1
+1189,Acer,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.2,231857,127.0,1,0
+1190,Lenovo,Gaming,Intel Core i5,8,Nvidia GeForce,Windows 10,2.4,73063,141.0,1,0
+1192,HP,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.86,43267,100.0,0,0
+1194,Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.6,106963,166.0,1,1
+1195,HP,Notebook,Intel Core i7,12,Nvidia GeForce,Windows 10,2.21,118382,141.0,1,0
+1196,Lenovo,Notebook,Intel Core i3,4,AMD Radeon,No OS,1.9,32829,100.0,0,0
+1197,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.3,191802,127.0,1,0
+1198,Acer,Notebook,Other Intel Processor,4,Intel HD,Linux,2.1,24265,100.0,0,0
+1199,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.43,182782,127.0,0,0
+1200,Dell,Notebook,Intel Core i3,4,AMD Radeon,Windows 10,2.3,44516,100.0,0,0
+1201,Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,No OS,2.2,56113,100.0,0,0
+1202,Dell,2 in 1 Convertible,Intel Core i7,16,Intel UHD,Windows 10,2.0,114635,141.0,0,1
+1203,Dell,Ultrabook,Intel Core i7,16,Intel HD,Windows 10,1.2,239083,276.0,0,1
+1204,Asus,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,104286,141.0,0,0
+1205,Dell,Notebook,Intel Core i5,8,AMD Radeon,Windows 10,2.36,79308,141.0,0,0
+1206,HP,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.91,51653,100.0,0,0
+1207,Lenovo,Notebook,AMD E-Series,4,AMD Radeon,Windows 10,2.2,26674,100.0,0,0
+1208,Acer,Notebook,Intel Core i3,8,Nvidia GeForce,Windows 10,3.3,56113,106.0,0,0
+1209,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.2,218475,141.0,0,0
+1211,Asus,Notebook,Intel Core i7,16,Nvidia GeForce,Windows 10,2.2,156028,141.0,0,0
+1212,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.43,173869,127.0,1,0
+1213,Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,2.191,89121,141.0,1,1
+1214,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.9,173870,127.0,0,0
+1215,Acer,Netbook,Other Intel Processor,2,Intel HD,Chrome OS,1.3,15523,135.0,0,0
+1216,Acer,Notebook,Intel Core i3,4,Nvidia GeForce,Windows 10,3.3,53348,106.0,0,0
+1217,Lenovo,Notebook,Intel Core i5,8,Intel HD,No OS,2.8,48084,106.0,0,0
+1218,Lenovo,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.6,113475,141.0,1,0
+1219,Acer,2 in 1 Convertible,Intel Core i7,8,Intel HD,Windows 10,1.2,102502,157.0,1,1
+1220,Lenovo,Notebook,Intel Core i7,8,Intel HD,Windows 10,2.3,136402,141.0,1,0
+1221,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,131684,141.0,0,0
+1222,HP,Notebook,AMD A-Series,6,AMD Radeon,Windows 10,2.1,47192,141.0,0,0
+1223,Dell,Ultrabook,Intel Core i5,8,Intel HD,Windows 7,1.26,152850,176.0,0,1
+1225,Asus,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.65,27566,100.0,0,0
+1226,Dell,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.29,131763,276.0,0,1
+1227,Dell,Notebook,Intel Core i5,4,Intel HD,Linux,2.18,46555,100.0,0,0
+1228,Lenovo,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.6,91797,141.0,1,1
+1229,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.2,102502,141.0,0,0
+1230,Lenovo,Netbook,Intel Core i7,16,Intel HD,Windows 10,1.3,147196,176.0,1,1
+1232,Dell,Notebook,Intel Core i3,8,Intel HD,Windows 10,2.3,41840,100.0,0,1
+1233,MSI,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.7,142558,127.0,0,0
+1234,Apple,Ultrabook,Intel Core i5,4,Intel HD,mac OS,1.08,85552,135.0,0,0
+1235,HP,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.1,42642,141.0,0,0
+1236,HP,Ultrabook,Intel Core i7,8,Intel HD,Windows 7,1.54,196101,210.0,0,0
+1237,Dell,Notebook,Intel Core i5,4,Intel HD,Windows 7,2.24,65748,100.0,0,0
+1238,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.3,104286,141.0,0,0
+1239,Lenovo,Notebook,Intel Core i7,16,Intel HD,Windows 10,1.4,133726,166.0,1,0
+1240,Lenovo,Notebook,AMD A-Series,6,AMD Radeon,Windows 10,2.2,53309,141.0,0,0
+1241,Asus,Ultrabook,Intel Core i7,8,Intel HD,Windows 10,1.45,114189,166.0,0,0
+1242,Acer,Notebook,Intel Core i3,4,Intel HD,Linux,2.4,32276,100.0,0,0
+1243,Dell,2 in 1 Convertible,Intel Core i7,16,Nvidia GeForce,Windows 10,2.77,160489,127.0,0,1
+1244,HP,Notebook,Intel Core i5,4,Intel HD,Windows 7,1.54,98130,157.0,0,0
+1245,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.5,142736,141.0,1,0
+1246,Dell,Notebook,Intel Core i5,4,Intel HD,Windows 10,1.6,78059,112.0,0,0
+1247,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,2.34,207413,141.0,1,0
+1248,Lenovo,Notebook,Intel Core i5,8,Intel HD,No OS,2.3,51117,141.0,1,0
+1249,Dell,2 in 1 Convertible,Intel Core i5,8,Intel HD,Windows 10,1.24,161738,276.0,0,1
+1250,Dell,Notebook,Other Intel Processor,4,Intel HD,Linux,2.2,28904,100.0,0,0
+1251,HP,Notebook,AMD A-Series,4,AMD Radeon,Windows 10,1.86,35595,100.0,0,0
+1252,Lenovo,Notebook,Intel Core i3,6,Nvidia GeForce,Windows 10,2.4,50760,141.0,0,0
+1253,Lenovo,Notebook,Intel Core i5,8,Intel HD,Windows 10,1.9,95633,157.0,1,0
+1254,Dell,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.2,39608,100.0,0,0
+1255,Asus,Notebook,Other Intel Processor,4,Intel HD,Windows 10,2.0,30242,100.0,0,0
+1256,Asus,Gaming,Intel Core i7,16,Nvidia GeForce,Windows 10,4.0,169499,127.0,1,0
+1257,Dell,Notebook,Intel Core i3,4,Intel HD,Windows 10,2.29,43713,100.0,0,0
+1258,Lenovo,Notebook,Intel Core i7,8,AMD Radeon,Windows 7,2.32,79843,141.0,0,0
+1259,MSI,Gaming,Intel Core i7,8,Nvidia GeForce,Windows 10,2.4,109639,141.0,0,0
+1260,Lenovo,2 in 1 Convertible,Intel Core i5,4,Intel HD,Windows 10,1.8,74313,157.0,0,1
+1261,Asus,Ultrabook,Other Intel Processor,8,Intel HD,Windows 10,1.2,65034,166.0,1,0
+1262,Dell,Notebook,Intel Core i3,6,Intel HD,Windows 10,2.3,40947,100.0,0,0
+1263,Acer,Notebook,Other Intel Processor,4,Intel HD,Linux,2.4,25782,100.0,0,0
+1264,Dell,Notebook,Other Intel Processor,2,Intel HD,Windows 10,2.2,33811,100.0,0,0
+1265,Lenovo,Notebook,Intel Core i7,8,Nvidia GeForce,Windows 10,2.6,80200,141.0,1,0
+1266,HP,Notebook,AMD A-Series,6,AMD Radeon,Windows 10,2.04,49065,141.0,0,0
+1267,Dell,Notebook,Intel Core i7,8,AMD Radeon,Linux,2.3,71902,100.0,0,0
+1268,HP,Netbook,Other Intel Processor,2,Intel HD,Windows 10,1.17,18645,135.0,0,0
+1269,Asus,Notebook,Intel Core i7,4,Nvidia GeForce,Windows 10,2.2,64260,100.0,0,0
+1270,Lenovo,2 in 1 Convertible,Intel Core i7,4,Intel HD,Windows 10,1.8,56916,157.0,1,1
+1271,Lenovo,2 in 1 Convertible,Intel Core i7,16,Intel HD,Windows 10,1.3,133726,276.0,1,1
+1272,Lenovo,Notebook,Other Intel Processor,2,Intel HD,Windows 10,1.5,20429,112.0,0,0
+1273,HP,Notebook,Intel Core i7,6,AMD Radeon,Windows 10,2.19,68156,100.0,0,0
